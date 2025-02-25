@@ -1,5 +1,3 @@
-# experimentando-a-julia
-
 pra rodar é so baixar julia no pc depois rodar o arquivo main.jl
 
 tem varias partes do main.jl que deixei comentado pq nao tavam funcionando, se quiserem tentar arrumar sintam-se livres
